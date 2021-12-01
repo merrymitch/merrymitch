@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @merrymitch
-- 👀 I’m interested in all types of computer science fields
+- 👀 I’m interested learning more about different fields within computer science and software engineering.
 - 🌱 I’m currently learning computer science at Auburn
 - 📫 How to reach me: auburn email if you have it
 
