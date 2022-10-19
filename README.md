@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @merrymitch
-- 👀 I’m interested in learning more about different fields within computer science and software engineering.
-- 🌱 I’m currently learning computer science at Auburn
+- 👀 I'm probably trying to finish a project or reading a book
+- 🌱 I’m currently studying computer science at Auburn
 - 📫 How to reach me: auburn email if you have it
 
 <!---
