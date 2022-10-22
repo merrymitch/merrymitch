@@ -12,7 +12,6 @@
   <a href="mailto:maryemitchell01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=merrymitch&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="badges" align="center">
