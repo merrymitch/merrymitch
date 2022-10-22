@@ -30,4 +30,4 @@
 ---
 
 ### :woman_technologist: About Me :
-I am currently a senior studying Computer Science at Auburn University <img src="https://media.giphy.com/media/USUSVOt5OU7T2pKWtn/giphy.gif" width="30">
+I am currently a senior studying Computer Science at Auburn University <img src="https://media.giphy.com/media/USUSVOt5OU7T2pKWtn/giphy.gif" width="40">
