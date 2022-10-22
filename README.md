@@ -35,3 +35,7 @@ I am currently a senior studying Computer Science at Auburn University <img src=
 - :seedling: Exploring different fields in computer science that I might like to have a career in
 - :zap: In my free time, I can usually be found reading a book or at the dog park <img src="https://media.giphy.com/media/TUV4bmHUfW2yN3VmXi/giphy.gif" width="40">
 - :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:maryemitchell01@gmail.com) or Auburn email 
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
