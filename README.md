@@ -31,3 +31,7 @@
 
 ### :woman_technologist: About Me :
 I am currently a senior studying Computer Science at Auburn University <img src="https://media.giphy.com/media/USUSVOt5OU7T2pKWtn/giphy.gif" width="40">
+- :card_index_dividers: I'm working on finishing my coursework, much of which can be found in my various repositories
+- :seedling: Exploring different fields in computer science that I might like to have a career in
+- :zap: In my free time, I can usually be found reading a book or at the dog park <img src="https://media.giphy.com/media/TUV4bmHUfW2yN3VmXi/giphy.gif" width="40">
+- :mailbox: How to reach me [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:maryemitchell01@gmail.com) or Auburn email 
