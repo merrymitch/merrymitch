@@ -25,8 +25,9 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/ydWZWF2FCZRdpHwVsg/giphy.gif" width="250"/>
-  By duplicating, copying, redistributing material found in this the website and GitHub Repository, you(the "User") are in direct violation of Auburn University Title XII Student Academic Honesty Code: Violations 1201.4 (Violations of the Student Academic Honesty Code).
 </div>
+
+By duplicating, copying, redistributing material found in this the website and GitHub Repository, you(the "User") are in direct violation of Auburn University Title XII Student Academic Honesty Code: Violations 1201.4 (Violations of the Student Academic Honesty Code).
 
 <div align="center">
   <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="600" height="350"/>
