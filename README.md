@@ -62,7 +62,9 @@ I am currently a senior studying Computer Science at Auburn University <img src=
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqllite" alt="Sqllite" width="40" height="40"/>&nbsp;
-  <img src="[[https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg](https://imgs.search.brave.com/45WG_SoUAuY6beF1ed1JW8n0SFvkhfrWTYqAredooxk/rs:fit:684:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5p/Y2h3RXpLNlRiZzU2/RDlKdEdkMWdRSGFG/SSZwaWQ9QXBp)](https://www.vhv.rs/dpng/d/127-1270973_thumb-image-icon-html-css-png-transparent-png.png)" title="HtmlCSS" alt="HtmlCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
+  <img src=![image](https://user-images.githubusercontent.com/88597516/224806673-b94fdf38-4a7b-451a-b1c2-c8f7277c7475.png) title="Xml" alt="Xml" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
