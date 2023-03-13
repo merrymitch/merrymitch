@@ -28,7 +28,7 @@
 </div>
 
 <h2 align="center">
-All repositories are currently hidden, will be back soon.
+All repositories are currently hidden, will be back soon!
 </h2>
 
 <div align="center">
