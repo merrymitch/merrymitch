@@ -36,7 +36,7 @@ All repositories are currently hidden, will be back soon!
 </div>
 
 <h3 align="center">
-By duplicating, copying, or redistributing material found in this the website and GitHub Repository, you(the "User") are in direct violation of Auburn University Title XII Student Academic Honesty Code: Violations 1201.4 (Violations of the Student Academic Honesty Code).
+By duplicating, copying, or redistributing material found in this the website and GitHub Repository, you (the "User") are in direct violation of Auburn University Title XII Student Academic Honesty Code: Violations 1201.4 (Violations of the Student Academic Honesty Code).
 </h3>
 
 <div align="center">
