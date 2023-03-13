@@ -24,6 +24,14 @@
 </h1>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/vAbetxnkVq7gE3VpbJ/giphy.gif" width="250"/>
+</div>
+
+<h2 align="center">
+All repositories are currently hidden, will be back soon.
+</h2>
+
+<div align="center">
   <img src="https://media.giphy.com/media/ydWZWF2FCZRdpHwVsg/giphy.gif" width="250"/>
 </div>
 
