@@ -38,8 +38,8 @@ By duplicating, copying, or redistributing material found in this the website an
 ---
 
 ### :woman_technologist: About Me :
-I am currently a senior studying Computer Science at Auburn University <img src="https://media.giphy.com/media/USUSVOt5OU7T2pKWtn/giphy.gif" width="40">
-- :card_index_dividers: I've recently graduated from Auburn University, for which my coursework can be found in my repositories.
+I have recently graduated with a degree in Computer Science from Auburn University <img src="https://media.giphy.com/media/USUSVOt5OU7T2pKWtn/giphy.gif" width="40">
+- :card_index_dividers: I've recently graduated from Auburn University, for which my coursework can be found in my repositories
 - :seedling: Exploring different fields in computer science that I might like to have a career in
 - :zap: In my free time, I can usually be found reading a book or at the dog park <img src="https://media.giphy.com/media/TUV4bmHUfW2yN3VmXi/giphy.gif" width="40">
 - :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:maryemitchell01@gmail.com) or Auburn email 
